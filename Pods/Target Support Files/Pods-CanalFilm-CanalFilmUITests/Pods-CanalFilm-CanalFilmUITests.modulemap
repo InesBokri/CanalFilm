@@ -1,0 +1,6 @@
+framework module Pods_CanalFilm_CanalFilmUITests {
+  umbrella header "Pods-CanalFilm-CanalFilmUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
